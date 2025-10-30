@@ -2,7 +2,7 @@
 <template>
   <section
     id="experiences"
-    class="py-20 bg-gray-50 text-gray-800 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-500"
+    class="py-20 bg-gray-50 text-gray-800 dark:bg-birara-700 dark:text-gray-100 transition-colors duration-500"
   >
     <div class="max-w-6xl mx-auto px-6 text-center">
       <h2 class="text-3xl md:text-4xl font-extrabold mb-12 font-serif">

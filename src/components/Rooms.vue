@@ -1,7 +1,7 @@
 <template>
   <section
     id="accommodation"
-    class="py-20 bg-gray-50 dark:bg-gray-900 transition-colors duration-500"
+    class="py-20 bg-gray-50 dark:bg-birara-700 transition-colors duration-500"
   >
     <div class="max-w-6xl mx-auto px-6 text-center">
       <h2

@@ -1,6 +1,6 @@
 <template>
   <section
-    class="bg-gray-50 dark:bg-gray-900 py-16 w-full transition-colors duration-500"
+    class="bg-gray-50 dark:bg-birara-700 py-16 w-full transition-colors duration-500"
   >
     <div class="max-w-4xl mx-auto px-6 text-center">
       <h2

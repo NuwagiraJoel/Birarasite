@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="bg-gray-50 dark:bg-gray-900 py-10 w-full border-t border-green-100 dark:border-gray-700 transition-colors duration-500"
+    class="bg-gray-50 dark:bg-birara-700 py-10 w-full border-t border-green-100 dark:border-gray-700 transition-colors duration-500"
   >
     <div class="max-w-6xl mx-auto px-6 text-center">
       <!-- Navigation Links -->

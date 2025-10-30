@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="bg-white border-b border-gray-200 fixed w-full z-50 top-0 left-0 dark:bg-gray-900 dark:border-gray-700 dark:text-gray-100 transition-colors duration-500"
+    class="bg-white border-b border-gray-200 fixed w-full z-50 top-0 left-0 dark:bg-birara-700 dark:border-gray-700 dark:text-gray-100 transition-colors duration-500"
   >
     <div
       class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"

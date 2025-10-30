@@ -5,6 +5,17 @@
 
 @import "tailwindcss";
 
+@theme {
+    --color-birara-50: #e8f0e8;
+    --color-birara-100: #cfdccf;
+    --color-birara-500: #112111;
+    /* default */
+    --color-birara-700: #0d1a0d;
+}
+
+
+
+
 
 /* Add this line to enable dark mode manually */
 @custom-variant dark (&:where(.dark, .dark *));

@@ -2,7 +2,7 @@
   <div>
     <!-- Why Choose Birara Section -->
     <section
-      class="bg-gray-50 dark:bg-gray-900 py-20 transition-colors duration-500"
+      class="bg-gray-50 dark:bg-birara-700 py-20 transition-colors duration-500"
     >
       <div class="max-w-7xl mx-auto px-6">
         <h2 class="text-4xl font-bold text-gray-900 dark:text-gray-100 mb-10">

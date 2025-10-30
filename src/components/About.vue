@@ -1,7 +1,7 @@
 <template>
   <section
     id="about"
-    class="py-16 bg-gray-50 dark:bg-gray-900 text-center transition-colors duration-500"
+    class="py-16 bg-gray-50 dark:bg-birara-700 text-center transition-colors duration-500"
   >
     <div
       class="max-w-4xl mx-auto px-6"
