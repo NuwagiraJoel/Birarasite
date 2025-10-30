@@ -41,7 +41,7 @@
 
       <!-- Copyright -->
       <p class="text-green-700 dark:text-green-400 text-sm">
-        © 2024 Birara Resort. All rights reserved.
+        © 2025 Birara Resort. All rights reserved.
       </p>
     </div>
   </footer>

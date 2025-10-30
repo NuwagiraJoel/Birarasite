@@ -17,7 +17,7 @@
           loading="lazy"
           allowfullscreen
           referrerpolicy="no-referrer-when-downgrade"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.0925162389473!2d-122.42177848468147!3d37.77492927975819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085808c7e4bdf6f%3A0x7e57c8b7d2e7a4e!2sTaylor%20Park%20Reservoir!5e0!3m2!1sen!2sus!4v1679303847654!5m2!1sen!2sus"
+          src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3989.356817512915!2d29.866543374965076!3d-0.8714699991200843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMMKwNTInMTcuMyJTIDI5wrA1MicwOC44IkU!5e0!3m2!1sen!2sug!4v1761817751451!5m2!1sen!2sug"
         ></iframe>
       </div>
 
@@ -25,8 +25,9 @@
       <div
         class="text-gray-800 dark:text-gray-200 text-base md:text-lg leading-relaxed"
       >
-        <p>123 Resort Road, Countryside, State, 12345</p>
-        <p>Phone: (123) 456-7890</p>
+        <!-- <p>123 Resort Road, Countryside, State, 12345</p> -->
+        <p>Calls: (+256) 772-448-357</p>
+        <p>Whatsapp: (+256) 781-364-238</p>
         <p>Email: info@birararesort.com</p>
       </div>
     </div>
