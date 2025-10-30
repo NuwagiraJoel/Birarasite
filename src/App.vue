@@ -29,4 +29,6 @@ import Location from "./components/Location.vue";
 import Gallery from "./components/Gallery.vue";
 // import Contact from "./components/Contact.vue";
 import Footer from "./components/Footer.vue";
+
+
 </script>

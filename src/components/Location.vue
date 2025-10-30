@@ -1,7 +1,11 @@
 <template>
-  <section class="bg-gray-50 py-16 w-full">
+  <section
+    class="bg-gray-50 dark:bg-gray-900 py-16 w-full transition-colors duration-500"
+  >
     <div class="max-w-4xl mx-auto px-6 text-center">
-      <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-8">
+      <h2
+        class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-8"
+      >
         Location &amp; Contact
       </h2>
 
@@ -9,7 +13,7 @@
       <div class="rounded-xl overflow-hidden shadow-md mb-6">
         <iframe
           class="w-full h-96"
-          style="border:0;"
+          style="border: 0; filter: brightness(0.98)"
           loading="lazy"
           allowfullscreen
           referrerpolicy="no-referrer-when-downgrade"
@@ -18,7 +22,9 @@
       </div>
 
       <!-- Contact Info -->
-      <div class="text-gray-800 text-base md:text-lg leading-relaxed">
+      <div
+        class="text-gray-800 dark:text-gray-200 text-base md:text-lg leading-relaxed"
+      >
         <p>123 Resort Road, Countryside, State, 12345</p>
         <p>Phone: (123) 456-7890</p>
         <p>Email: info@birararesort.com</p>
@@ -26,7 +32,6 @@
     </div>
   </section>
 </template>
-
 <script setup>
 // Static section – no dynamic behavior required
 </script>
