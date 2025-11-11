@@ -137,25 +137,31 @@
     </div>
   </section>
 
-  <fwb-modal v-if="showModal" @close="showModal = false">
-    <template #header> ✅ Booking Submitted </template>
+  <!-- Thank You Modal -->
+  <div
+    v-if="showModal"
+    class="fixed inset-0 bg-black/50 flex items-center justify-center z-50"
+  >
+    <div
+      class="bg-white dark:bg-gray-800 rounded-xl shadow-xl p-8 max-w-md w-full text-center animate-fadeIn"
+    >
+      <h2 class="text-2xl font-semibold text-gray-900 dark:text-white mb-3">
+        ✅ Booking Submitted
+      </h2>
 
-    <template #body>
-      <p class="text-gray-700 dark:text-gray-300">
+      <p class="text-gray-600 dark:text-gray-300 mb-6">
         Thank you for booking with us! We will contact you shortly to confirm
         your stay.
       </p>
-    </template>
 
-    <template #footer>
       <button
         @click="showModal = false"
-        class="bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700"
+        class="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-lg w-full font-medium transition-all"
       >
         Close
       </button>
-    </template>
-  </fwb-modal>
+    </div>
+  </div>
 </template>
 
 <script setup>
