@@ -7,6 +7,7 @@
       <Rooms />
       <Experiences />
       <Dinings />
+      <Booking />
       <About2 />
       <Gallery />
       <Location />
@@ -29,6 +30,5 @@ import Location from "./components/Location.vue";
 import Gallery from "./components/Gallery.vue";
 // import Contact from "./components/Contact.vue";
 import Footer from "./components/Footer.vue";
-
-
+import Booking from "./components/Booking.vue";
 </script>
